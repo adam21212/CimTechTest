@@ -57,6 +57,10 @@
       <Project>{20715efd-2441-4ab9-8a43-3d8a9a3433cb}</Project>
       <Name>TechTestCTM.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TechTestCTM.Utility\TechTestCTM.Utility.csproj">
+      <Project>{e94158e6-c209-43bc-9294-3bf9d5c3f546}</Project>
+      <Name>TechTestCTM.Utility</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
