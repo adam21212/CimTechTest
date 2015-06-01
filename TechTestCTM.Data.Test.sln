@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestCTM.Business", "Tec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestCTM.Business.Test", "TechTestCTM.Business.Test\TechTestCTM.Business.Test.csproj", "{E2D438B4-84CD-48C0-98F0-01CB402F72B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestCTM.Console", "TechTestCTM.Console\TechTestCTM.Console.csproj", "{F5B7188F-CB10-4506-9124-8FB5DF07835C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E2D438B4-84CD-48C0-98F0-01CB402F72B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D438B4-84CD-48C0-98F0-01CB402F72B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D438B4-84CD-48C0-98F0-01CB402F72B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B7188F-CB10-4506-9124-8FB5DF07835C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B7188F-CB10-4506-9124-8FB5DF07835C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B7188F-CB10-4506-9124-8FB5DF07835C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B7188F-CB10-4506-9124-8FB5DF07835C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
