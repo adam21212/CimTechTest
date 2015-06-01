@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestCTM.Data.Test", "TechTestCTM.Data.Test\TechTestCTM.Data.Test.csproj", "{9AB1FD5E-FC6F-4820-B62F-0B19B2A68148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestCTM.Data", "TechTestCTM.Data\TechTestCTM.Data.csproj", "{20715EFD-2441-4AB9-8A43-3D8A9A3433CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9AB1FD5E-FC6F-4820-B62F-0B19B2A68148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB1FD5E-FC6F-4820-B62F-0B19B2A68148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB1FD5E-FC6F-4820-B62F-0B19B2A68148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20715EFD-2441-4AB9-8A43-3D8A9A3433CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20715EFD-2441-4AB9-8A43-3D8A9A3433CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20715EFD-2441-4AB9-8A43-3D8A9A3433CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20715EFD-2441-4AB9-8A43-3D8A9A3433CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
